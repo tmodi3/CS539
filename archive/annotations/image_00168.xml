@@ -1,0 +1,36 @@
+<annotation>
+    <folder>images</folder>
+    <filename>image_00168.jpeg</filename>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>f16</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>729</xmin>
+            <ymin>153</ymin>
+            <xmax>847</xmax>
+            <ymax>217</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>f16</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>328</xmin>
+            <ymin>183</ymin>
+            <xmax>444</xmax>
+            <ymax>232</ymax>
+        </bndbox>
+    </object>
+</annotation>

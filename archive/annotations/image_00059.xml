@@ -1,0 +1,36 @@
+<annotation>
+    <folder>images</folder>
+    <filename>image_00059.jpeg</filename>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>seahawk</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>817</xmin>
+            <ymin>432</ymin>
+            <xmax>1153</xmax>
+            <ymax>552</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>seahawk</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>202</xmin>
+            <ymin>398</ymin>
+            <xmax>601</xmax>
+            <ymax>548</ymax>
+        </bndbox>
+    </object>
+</annotation>

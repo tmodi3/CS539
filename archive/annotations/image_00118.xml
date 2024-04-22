@@ -1,0 +1,36 @@
+<annotation>
+    <folder>images</folder>
+    <filename>image_00118.jpeg</filename>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>chinook</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>651</xmin>
+            <ymin>98</ymin>
+            <xmax>1191</xmax>
+            <ymax>279</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>chinook</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>80</xmin>
+            <ymin>151</ymin>
+            <xmax>387</xmax>
+            <ymax>278</ymax>
+        </bndbox>
+    </object>
+</annotation>

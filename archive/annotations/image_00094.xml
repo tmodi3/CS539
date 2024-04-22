@@ -1,0 +1,36 @@
+<annotation>
+    <folder>images</folder>
+    <filename>image_00094.jpeg</filename>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>cougar</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>426</xmin>
+            <ymin>115</ymin>
+            <xmax>1060</xmax>
+            <ymax>583</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>seahawk</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>148</xmin>
+            <ymin>370</ymin>
+            <xmax>309</xmax>
+            <ymax>429</ymax>
+        </bndbox>
+    </object>
+</annotation>
